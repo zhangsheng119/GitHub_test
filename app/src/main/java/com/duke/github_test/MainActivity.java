@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //dddddd
         int a = 9;
+        int b = 99;
     }
 }
